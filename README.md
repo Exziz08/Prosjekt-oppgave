@@ -13,3 +13,11 @@ Delta i samtaler i både private og offentlige chatrom
 # Målet med prosjektet
 Målet med nettsiden er å vise at jeg kan bruke det jeg har lært i IT til å lage noe ekte og funksjonelt. Jeg vil vise at jeg kan lage en nettside der folk kan lage konto, logge inn og chatte med venner på en enkel og trygg måte. Prosjektet skal vise at jeg forstår hvordan man bygger en nettside fra bunn av, både teknisk og med et brukervennlig design.
 
+# Teknologier
+For backend altså database skal jeg bruke MariaDb. for funksjonalitet skal jeg bruke Python. jeg skal også bruke Html og CSS
+
+# stikkord 
+Flask
+Mariadb
+Veileder
+
